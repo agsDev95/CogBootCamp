@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CogBootCamp</string>
+    <string name="title_activity_reflex_button">ReflexButtonActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="go_to_reflex_button_game">Go to Reflex Button Game</string>
+    <string name="speed_test">Speed Test</string>
+    <string name="start">START</string>
+    <string name="reflex_test_subtitle">Tap this button 30 times\nas quickly as you can.</string>
+    <string name="your_time">YOUR TIME</string>
+    <string name="placeholder_time_text">0.000s</string>
+    <string name="divider">...........................</string>
+    <!-- not sure why newline is not working, but will use <br/>  for now (not best practive either?)   -->
+    <string name="save_results_prompt">Enter your initials below to save\nyour results to the leaderboard</string>
+    <string name="save">SAVE</string>
+    <string name="title_activity_reflex_leaderboard">ReflexLeaderboardActivity</string>
+    <string name="leaderboard_placement_placeholder">0</string>
+    <string name="participant_initials_placeholder">XYZ</string>
+</resources>
